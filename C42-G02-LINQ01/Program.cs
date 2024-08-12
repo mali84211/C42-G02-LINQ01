@@ -42,7 +42,7 @@
             //Console.WriteLine(Emp1.GetType().Name);
             //Console.WriteLine(Emp2.GetType().Name);
             //Emp1.Id = 12; //in'validj,
-            //var Emp2 = Emp1 with { Id = 12 };
+            //var Emp2 = Emp1 with { Id = 12 
             //Console.WriteLine(Emp1);
             //if (Emp1.Equals(Emp2))
             //{
@@ -54,7 +54,16 @@
             //}
             #endregion
 
-            #region
+            #region V4
+            //List<int> numbers = new List<int>() {1,2, 3, 4, 5};
+            ////var Result=Enumerable.Where(numbers, N => N % 2 == 0);
+            //var Result = numbers.Where(N => N % 2 == 0);
+            //numbers.Any();
+            //var Result = Enumerable.Range(start:1,start:100);
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
             #endregion
 
             #region
