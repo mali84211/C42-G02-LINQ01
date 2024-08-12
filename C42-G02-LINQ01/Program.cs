@@ -35,7 +35,23 @@
             //Console.WriteLine(x);
             #endregion
 
-            #region 
+            #region V3
+            //Employee Emp1= new Employee() {Id =1, Name="ahmed",Salary=1200 };
+            //var Emp1 = new { Id = 1, Name = "ahmed", Salary = 1200 };
+            //var Emp2 = new { Id = 1, Name = 123, Salary = 1200 };
+            //Console.WriteLine(Emp1.GetType().Name);
+            //Console.WriteLine(Emp2.GetType().Name);
+            //Emp1.Id = 12; //in'validj,
+            //var Emp2 = Emp1 with { Id = 12 };
+            //Console.WriteLine(Emp1);
+            //if (Emp1.Equals(Emp2))
+            //{
+            //    Console.WriteLine(value: "EQUALS");
+            //}
+            //else
+            //{
+            //    Console.WriteLine(value: "EQUALS");
+            //}
             #endregion
 
             #region
